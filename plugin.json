@@ -1,0 +1,14 @@
+{
+  "name": "codex-plugin-boilerplate",
+  "description": "A boilerplate plugin for GitHub Copilot CLI with custom skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rodrigo Huaranga",
+    "email": "rodrigo@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "copilot", "cli", "custom"],
+  "homepage": "https://github.com/RodrigoHuaranga96/codex-plugin-boilerplate",
+  "repository": "https://github.com/RodrigoHuaranga96/codex-plugin-boilerplate",
+  "skills": ["skills/"]
+}
