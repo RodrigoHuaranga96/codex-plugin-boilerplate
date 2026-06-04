@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "Codex Boilerplate Marketplace",
+  "description": "A marketplace containing boilerplate plugins and skills for Codex",
+  "plugins": [
+    {
+      "name": "boilerplate-skills",
+      "displayName": "Boilerplate Skills",
+      "description": "Collection of example skills for GitHub Copilot CLI",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rodrigo Huaranga",
+        "email": "rodrigo@example.com"
+      },
+      "license": "MIT",
+      "manifest": "../codex-plugin/plugin.json",
+      "keywords": ["skills", "copilot", "cli", "boilerplate"],
+      "repository": "https://github.com/RodrigoHuaranga96/codex-plugin-boilerplate"
+    }
+  ]
+}
